@@ -1,2 +1,2 @@
-# MY_APP
+# my_app
 Edididk App
